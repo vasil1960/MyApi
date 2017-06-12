@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="iagsession.class.php" server="172.16.4.55//home/dbsystem/web/api/" local="131342085450000000" remote="131415734340000000" Dst="2" />
-<file name="connection.class.php" server="172.16.4.55//home/dbsystem/web/api/" local="131416758906277981" remote="131416758960000000" Dst="2" />
-<file name="empl.class.php" server="172.16.4.55//home/dbsystem/web/api/" local="131416740979048753" remote="131416741030000000" Dst="2" />
-<file name="iagusers.php" server="172.16.4.55//home/dbsystem/web/api/" local="131416727850000000" remote="131416727850000000" Dst="2" />
+<file name="iagsession.class.php" server="172.16.4.55//home/dbsystem/web/api/" local="131342085450000000" remote="131417132750000000" Dst="2" />
+<file name="Connection.php" server="172.16.4.55//home/dbsystem/web/api/" local="131417120139150650" remote="131417132750000000" Dst="2" />
+<file name="Empl.php" server="172.16.4.55//home/dbsystem/web/api/" local="131417152084748456" remote="131417153030000000" Dst="2" />
 </dwsync>

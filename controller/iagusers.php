@@ -2,12 +2,13 @@
 
 include '../vendor/autoload.php';
 
+
 $pdo = Connection::make();
 
-$empl = new Empl($pdo);
+$emp = new Empl($pdo);
 
-$empl->seyHello();
+$a = $emp->seyHello();
 
-var_dump($empl);
+var_dump($a);
 
 //include '../view/index.view.php';

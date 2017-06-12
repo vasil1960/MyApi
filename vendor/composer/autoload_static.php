@@ -7,8 +7,8 @@ namespace Composer\Autoload;
 class ComposerStaticInitf3b6f4f2bdefd4039dc44729f4c12238
 {
     public static $classMap = array (
-        'Connection' => __DIR__ . '/../..' . '/core/connection.class.php',
-        'Empl' => __DIR__ . '/../..' . '/core/empl.class.php',
+        'Connection' => __DIR__ . '/../..' . '/core/Connection.php',
+        'Empl' => __DIR__ . '/../..' . '/core/Empl.php',
         'IagSession' => __DIR__ . '/../..' . '/core/iagsession.class.php',
     );
 
